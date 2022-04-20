@@ -20,5 +20,9 @@
     <% end %>  
     
     <%= yield %>
+    <% if session[:source]%>
+      <p>Welcome to DevCampPortfolio from <%= session[:source] %></p> 
+    <% end %>
   </body>
+  
 </html>
