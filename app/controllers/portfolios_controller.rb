@@ -1,4 +1,6 @@
 class PortfoliosController < ApplicationController
+  layout 'portfolio'
+  
   def index
     @portfolio_items = Portfolio.all
   end
@@ -26,6 +28,7 @@ class PortfoliosController < ApplicationController
 
   def edit
     @portfolio_item = Portfolio.find(params[:id])
+
   end
 
   def update
@@ -57,10 +60,21 @@ class PortfoliosController < ApplicationController
     end
   end
 
+<<<<<<< HEAD
   private 
 
   def portfolio_params
     params.require(:portfolio).permit(:title, :subtitle, :body, technologies_attributes: [:name])
+=======
+  private
+
+  def portfolio_params
+    params.require(:portfolio).permit(:title,
+                                      :subtitle,
+                                      :body,
+                                      technologies_attributes: [:name]
+                                     )
+>>>>>>> mine_view_stuff
   end
 
 end
