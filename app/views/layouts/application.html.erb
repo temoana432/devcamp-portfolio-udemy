@@ -14,7 +14,6 @@
     <p class="notice"><%= notice %></p>
     <p class="alert"><%= alert %></p>
 
-<<<<<<< HEAD
     <% if current_user.is_a?(User) %>
       <%= link_to "Logout", destroy_user_session_path, method: :delete%>
     <% else %>
@@ -26,16 +25,6 @@
     <% if session[:source]%>
       <p>Welcome to DevCampPortfolio from <%= session[:source] %></p> 
     <% end %>
-=======
-    <%= render "shared/nav", location: 'top' %>
-
-    <%= login_helper %>
-
-    <%= yield %>
-
-    <%= source_helper("application")%>
-
->>>>>>> mine_view_stuff
   </body>
   
 </html>

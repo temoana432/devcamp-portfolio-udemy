@@ -5,6 +5,10 @@ class BlogsController < ApplicationController
   # GET /blogs
   # GET /blogs.json
   def index
+    puts "*" * 100
+    p method(:render).source_location
+    p method(:render).super_method.source_location
+    puts "*" * 100
     @blogs = Blog.all
     @page_title = "My Portfolio Blog"
   end
