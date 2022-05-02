@@ -1,0 +1,500 @@
+  175  ruby strings.rb 11
+  176  ruby strings.rb 12
+  177  ruby strings.rb 13
+  178  ruby strings.rb 14
+  179  ruby strings.rb 11
+  180  ruby strings.rb 11
+  181  ruby strings.rb 11
+  182  ruby strings.rb 11
+  183  cd -
+  184  irb
+  185  rails c
+  186  ka
+  187  kak
+  188  ls
+  189  rails s -p3001
+  190  exit
+  191  exit
+  192  exit
+  193  shell
+  194  curr
+  195  ls
+  196  rails s
+  197  rails s
+  198  exit
+  199  curr
+  200  code .
+  201  rails s
+  202  git switch mine_view
+  203  rails s
+  204  bundle exec rake secret
+  205  bundle install
+  206  rails ss
+  207  rails s
+  208  rails s
+  209  rails s
+  210  rails g devise:install
+  211  rails s
+  212  git branch
+  213  git switch master
+  214  git add .
+  215  git diff config/initializers/devise.r
+  216  git diff config/initializers/devise.rb
+  217  git commit -m "devise"
+  218  git push
+  219  git switch master
+  220  grep -ir current_user *.* .
+  221  history
+  222  git checkout 7ccd42d
+  223  git switch -c chapter110
+  224  git branch
+  225  rails s
+  226  bundle install
+  227  gem install nio4r -v '1.2.1'
+  228  bundle exec
+  229  bundle exec bundle install
+  230  bundle install
+  231  rm Gemfile.lock
+  232  bundle install
+  233  rails s
+  234  rails db:migrate
+  235  rm /Users/Steve/mydev/udemy/ror/dissectingROR5/devcamp-portfolio-udemy/db/migrate/20170107011741_devise_create_users.rb
+  236  rails s
+  237  ls
+  238  gstat
+  239  git add .
+  240  git branch
+  241  git switch mine_view
+  242  git stash
+  243  git switch mine_view
+  244  gstat
+  245  rails s
+  246  gstat
+  247  git branch
+  248  git switch chapter110
+  249  rails s
+  250  bundle install
+  251  rm Gemfile.lock
+  252  bundle install
+  253  rails s
+  254  rails db:migrate
+  255  rails db:migrate
+  256  rm /Users/Steve/mydev/udemy/ror/dissectingROR5/devcamp-portfolio-udemy/db/migrate/20170107011741_devise_create_users.rb
+  257  rails s
+  258  git branch
+  259  git -D mine_view
+  260  git branch -D mine_view
+  261  git switch -c mine_view
+  262  bundle install
+  263  rails s
+  264  gstat
+  265  git add . 
+  266  git commit -m "stuff"
+  267  git push
+  268  git push --set-upstream origin mine_view
+  269  git pull
+  270  git pull remote mine_view
+  271  git branch
+  272  git switch chapter110
+  273  git branch -c mine_view_stuff
+  274  git branch
+  275  git switch mine_view_stuff
+  276  gstat
+  277  bundle install
+  278  rm Gemfile.lock
+  279  bundle install
+  280  rails s
+  281  rails db:migrate
+  282  rm /Users/Steve/mydev/udemy/ror/dissectingROR5/devcamp-portfolio-udemy/db/migrate/20170107011741_devise_create_users.rb
+  283  rails db:migrate
+  284  rails s
+  285  gstat
+  286  git add .
+  287  git commit -m "creating mine_view_stuff from chapter110"
+  288  git push
+  289  git push --set-upstream origin mine_view_stuff
+  290  gstat
+  291  gstat
+  292  gstat
+  293  git diff app/views/pages/home.html.erb
+  294  git add app/views/pages/home.html.erb
+  295  gstat
+  296  git diff app/helpers/application_helper.rb
+  297  git add app/helpers/application_helper.rb
+  298  gstast
+  299  gstat
+  300  git diff app/views/layouts/application.html.erb
+  301  git add app/views/layouts/application.html.erb
+  302  gstat
+  303  git diff app/views/layouts/blog.html.erb
+  304  git add app/views/layouts/blog.html.erb
+  305  gstat
+  306  git diff app/views/layouts/portfolio.html.erb
+  307  git add app/views/layouts/portfolio.html.erb
+  308  gstat
+  309  git commit -m "Implemented content tag helper methods"
+  310  git push
+  311  gstat
+  312  exit
+  313  curr
+  314  ls
+  315  gstat
+  316  gstat
+  317  git diff app/views/layouts/application.html.erb
+  318  git add app/views/layouts/application.html.erb
+  319  gstast
+  320  gstast
+  321  gstat
+  322  git diff app/views/layouts/blog.html.erb
+  323  git add app/views/layouts/blog.html.erb
+  324  gstat
+  325  git diff app/views/layouts/portfolio.html.erb
+  326  git add app/views/layouts/portfolio.html.erb
+  327  gstat
+  328  git add app/views/shared/
+  329  gstat
+  330  gtat
+  331  gstat
+  332  git commit -m "Added the navigation links to a _nav partial and included this in applicaation, blog and portfolio"
+  333  gstat
+  334  gstat
+  335  rails routes | grep port
+  336   gstat
+  337  git diff app/views/shared/_nav.html.erb
+  338  git add app/views/shared/_nav.html.erb
+  339  gstat
+  340  git diff app/assets/stylesheets/application.css
+  341  git diff app/views/layouts/blog.html.erb
+  342  git diff app/views/layouts/portfolio.html.erb
+  343  git diff app/views/layouts/portfolio.html.erb
+  344  gstat
+  345  git diff app/views/layouts/application.html.erb
+  346  git diff app/views/layouts/blog.html.erb
+  347  gstat
+  348  git diff app/views/layouts/portfolio.html.erb
+  349  gstat
+  350  git add app/views/layouts/application.html.erb
+  351  git add app/views/layouts/blog.html.erb
+  352  git add app/views/layouts/portfolio.html.erb
+  353  gstat
+  354  git diff app/assets/stylesheets/application.css
+  355  git diff app/assets/stylesheets/application.css
+  356  git add .top a{
+  357     color:red
+  358  }
+  359  gstat
+  360  git diff app/assets/stylesheets/application.css
+  361  git add app/assets/stylesheets/application.css
+  362  gstat
+  363  git diff app/assets/stylesheets/blogs.scss
+  364  git add app/assets/stylesheets/blogs.scss
+  365  git diff app/assets/stylesheets/portfolios.scss
+  366  git add app/assets/stylesheets/portfolios.scss
+  367  gstat
+  368  gstat
+  369  gstat
+  370  git diff app/views/portfolios/edit.html.erb
+  371  git add app/views/portfolios/edit.html.erb
+  372  gstat
+  373  git diff app/views/portfolios/new.html.erb
+  374  git add app/views/portfolios/new.html.erb
+  375  gstat
+  376  cat app/views/portfolios/_form.html.erb
+  377  git add app/views/portfolios/_form.html.erb
+  378  git commit -m "Implemented partials with local data for portfolios form and navbars"
+  379  git log --oneline
+  380  git push origin mine_view
+  381  rails routes
+  382  gstat
+  383  git diff app/helpers/application_helper.rb
+  384  rails routes
+  385  gstat
+  386  git diff app/helpers/application_helper.rb
+  387  git diff app/helpers/application_helper.rb
+  388  git add app/helpers/application_helper.rb
+  389  gstat
+  390  git diff app/views/layouts/application.html.erb
+  391  git add app/views/layouts/application.html.erb
+  392  gstat
+  393  git diff app/views/layouts/blog.html.erb
+  394  git add app/views/layouts/blog.html.erb
+  395  gstat
+  396  git diff app/views/layouts/portfolio.html.erb
+  397  git add app/views/layouts/portfolio.html.erb
+  398  gstast
+  399  gstat
+  400  git diff app/views/pages/home.html.erb
+  401  git add app/views/pages/home.html.erb
+  402  gstat
+  403  git commit -m "Implemented view helper for auth links"
+  404  git push origin mine-view
+  405  gstat
+  406  git push
+  407  git push --set-upstream origin mine_view
+  408  git push
+  409  gstat
+  410  git branch
+  411  git switch master
+  412  git log --oneline
+  413  git checkout 80026ae
+  414  git switch -c mine_initial_from_udemy
+  415  git branch
+  416  git switch master
+  417  git stash
+  418  git switch master
+  419  git checkout
+  420  gstat
+  421  git switch master
+  422  rm app/assets/stylesheets/portfolios.scss
+  423  rm app/controllers/portfolios_controller.rb
+  424  rm app/views/layouts/blog.html.erb
+  425  rm app/views/layouts/portfolio.html.erb
+  426  git switch master
+  427  git checkout head
+  428  git log --oneline
+  429  git branch master
+  430  gstat
+  431  git branch
+  432  git switch mine_view
+  433  git switch master
+  434  history
+  435  gstat
+  436  git branch
+  437  git branch -D mine_initial_from_udemy
+  438  gstat
+  439  git checkout app/assets/stylesheets/home.html.erb
+  440  git checkout app/views/layouts/_form.html.erb
+  441  history
+  442  git checkout 80026ae
+  443  git switch -c mine_initial
+  444  git switch
+  445  git branch
+  446  git switch master
+  447  gstat
+  448  git switch mine_initial
+  449  git switch master
+  450  git log --oneline
+  451  git log --oneline | grep "helper"
+  452  git checkout 7ccd42d
+  453  git switch -c chapter110
+  454  git branch
+  455  git switch mine_view
+  456  git branch
+  457  git diffbranch chapter110
+  458  git switch master
+  459  gstat
+  460  cat app/assets/stylesheets/home.html.erb
+  461  git add app/assets/stylesheets/home.html.erb
+  462  cat app/views/layouts/_form.html.erb
+  463  git add app/views/layouts/_form.html.erb
+  464  gstat
+  465  cat app/views/layouts/new.html.erb
+  466  git add app/views/layouts/new.html.erb
+  467  gstat
+  468  git diff app/helpers/application_helper.rb
+  469  git add app/helpers/application_helper.rb
+  470  gstat
+  471  git commit -m "Stuff"
+  472  git push origin mine_view
+  473  gstat
+  474  gstat
+  475  git branch
+  476  git diffbranch chapter110
+  477  gstat
+  478  git add .
+  479  git commit -m "Updated local code base with code from EO Chapter 110"
+  480  git push 
+  481  gstat
+  482  git branch
+  483  git switch -D chapter110
+  484  git branch -D chapter110
+  485  git branch
+  486  git branch -D chapter84
+  487  git branch
+  488  git branch -D mine_initial
+  489  git branch
+  490  rails s
+  491  git switch master
+  492  gstat
+  493  grep -ir config.secret_key *.* .
+  494  history
+  495  git branch 
+  496  git switch mine_view_stuff
+  497  gstat
+  498  git add app/views/pages/home.html.erb
+  499  rails s
+  500  exit
+  501  curr
+  502  ls
+  503  rails s
+  504  rails s
+  505  cd ..
+  506  rails new ActionViewDeepDive
+  507  ls
+  508  cd Ac
+  509  cd ActionViewDeepDive/
+  510  ls
+  511  rails s
+  512  curr
+  513  rails s
+  514  rails s
+  515  rails db:migrate
+  516  bundle install
+  517  gstatus
+  518  git diff Gemfile
+  519  git add Gemfile
+  520  gstatus
+  521  git diff Gemfile.locak
+  522  git diff Gemfile.lock
+  523  git add Gemfile
+  524  git add Gemfile.lock
+  525  gstatus
+  526  git diff app/controllers/application_controller.rb
+  527  git add app/controllers/application_controller.rb
+  528  gstatus
+  529  git diff app/controllers/blogs_controller.rb
+  530  git add app/controllers/blogs_controller.rb
+  531  gstatus
+  532  git diff app/controllers/concerns/current_user_concern.rb
+  533  git add app/controllers/concerns/current_user_concern.rb
+  534  gstatus
+  535  git diff app/controllers/concerns/devise_whitelist.rb
+  536  git add app/controllers/concerns/devise_whitelist.rb
+  537  gstatus
+  538  git diff app/controllers/concerns/set_source.rb
+  539  git add app/controllers/concerns/set_source.rb
+  540  gstatus
+  541  git diff app/controllers/portfolios_controller.rb
+  542  git diff app/controllers/portfolios_controller.rb
+  543  git add app/controllers/portfolios_controller.rb
+  544  gstatus
+  545  git diff app/models/user.rb
+  546  git add app/models/user.rb
+  547  gstatus
+  548  git diff app/views/devise/confirmations/new.html.erb
+  549  git add app/views/devise/confirmations/new.html.erb
+  550  gstatus
+  551  git diff app/views/devise/passwords/edit.html.erb
+  552  git add app/views/devise/passwords/edit.html.erb
+  553  gstatus
+  554  git diff app/views/devise/passwords/new.html.erb
+  555  git add app/views/devise/passwords/new.html.erb
+  556  gstaus
+  557  gstatus
+  558  git diff app/views/devise/registrations/edit.html.erb
+  559  git add app/views/devise/registrations/edit.html.erb
+  560  gstatus
+  561  git diff app/views/devise/registrations/new.html.erb
+  562  git add app/views/devise/registrations/new.html.erb
+  563  gstatus
+  564  git diff app/views/devise/sessions/new.html.erb
+  565  git add app/views/devise/sessions/new.html.erb
+  566  gstatus
+  567  git diff app/views/devise/shared/_links.html.erb
+  568  git add app/views/devise/shared/_links.html.erb
+  569  gstatus
+  570  git diff app/views/devise/unlocks/new.html.erb
+  571  git add app/views/devise/unlocks/new.html.erb
+  572  gstatus
+  573  git diff app/views/layouts/application.html.erb
+  574  git add app/views/layouts/application.html.erb
+  575  gstatus
+  576  git diff app/views/pages/home.html.erb
+  577  git add app/views/pages/home.html.erb
+  578  gstatus
+  579  git add app/views/pages/home.html.erb
+  580  git diff config/environments/development.rb
+  581  git add config/environments/development.rb
+  582  gstatus
+  583  git diff config/initializers/devise.rb
+  584  git add config/initializers/devise.rb
+  585  gstatus
+  586  git diff config/locales/devise.en.yml
+  587  git add config/locales/devise.en.yml
+  588  gstatus
+  589  git diff config/routes.rb
+  590  git add config/routes.rb
+  591  gstatus
+  592  git commit -m "Refactored portfolio controller, removed merge issues"
+  593  git push
+  594  gstatus
+  595  gstatus
+  596  git switch -c rubygem
+  597  git branch
+  598  bundle install
+  599  cat config/secrets.yml 
+  600  cd ..
+  601  cd ..
+  602  cd temp
+  603  ls
+  604  cd dissectingROR5/
+  605  cd temp'
+  606  cd temp
+  607  ls
+  608  cd devcamp-portfolio-udemy/
+  609  git log --oneline
+  610  git branch
+  611  git switch master
+  612  git stash Gemfile.lock
+  613  git stash
+  614  git switch master
+  615  git log --oneline
+  616  ls
+  617  git log --oneline > delme.txt
+  618  vi delme.txt 
+  619  git checkout 8c97d29
+  620  git switch -c rubygems
+  621  rails s
+  622  bundle install
+  623  rm Gemfile.lock
+  624  bundle install
+  625  rails s
+  626  showfiles
+  627  ls
+  628  curr
+  629  cd ..
+  630  cd temp
+  631  ls
+  632  cd devcamp-portfolio-udemy/
+  633  ls
+  634  ls -rf
+  635  ls config
+  636  ls -r config
+  637  ls -r config/locales/
+  638  alias
+  639  git diffbranch rubygems
+  640  curr
+  641  ls
+  642  git branch
+  643  git switch -D rubygem
+  644  git branch -D rubygem
+  645  git branch -D rubygem_from_master
+  646  git branch
+  647  git switch mine
+  648  gstat
+  649  rails db:drop
+  650  bundle install
+  651  rails s
+  652  rails db:drop
+  653  rails db:create
+  654  rails db:migrate
+  655  rails s
+  656  rails s
+  657  rails s
+  658  git branch
+  659  git switch master
+  660  git diff db/schema.rb
+  661  git checkout db/schema.rb
+  662  gstat
+  663  git diff db/seeds.rb
+  664  git checkout db/seeds.rb
+  665  gstat
+  666  git checkout
+  667  gstat
+  668  git add .
+  669  git commit -m "Stuff"
+  670  git push
+  671  git branch
+  672  git switch -c mine_rubygems
+  673  history
+  674  history > delme.txt
