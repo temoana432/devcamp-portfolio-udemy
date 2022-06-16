@@ -75,6 +75,7 @@ class BlogsController < ApplicationController
 
   private
     # Use callbacks to share common setup or constraints between actions.
+    # For a discussion of friendly routes (as used in Blog.friendly.find(params[:id]) refer to Implementing Perma-links in the OngoingNotes.md
     def set_blog
       @blog = Blog.friendly.find(params[:id])
     end
